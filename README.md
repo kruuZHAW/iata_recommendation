@@ -47,5 +47,5 @@ poetry install
 ```
 
 ### 3. How to use
-1. Place all IATA annual review PDFs in the data/ folder.
-2. Run the 01_topic_evolution.ipynb notebook.
+1. Place all IATA annual review PDFs in the `data/` folder.
+2. Run the `01_topic_evolution.ipynb` notebook.
