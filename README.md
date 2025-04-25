@@ -54,7 +54,7 @@ poetry install
   - `01_topic_evolution.ipynb` for topic modeling and trend analysis
   - `02_semantic_query_rag.ipynb`for natural language question answering using semantic search
 
-### 4. Example use RAG
+### 4. Example of use RAG
 ```bash
 query = "What are the major sustainability initiatives?"
 ```
